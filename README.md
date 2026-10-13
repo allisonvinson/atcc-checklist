@@ -1,1 +1,1 @@
-# atcc-checklist
+Password-protected checklist page.
